@@ -1,4 +1,8 @@
---[[	DataStoreService.lua
+-- An implementation of DataStoreService in Lua for use in Studio
+-- @documentation https://github.com/buildthomas/MockDataStoreService/blob/master/README.md
+-- @author buildthomas
+
+--[[
 		This module decides whether to use actual datastores or mock datastores depending on the environment.
 
 		This module is licensed under APLv2, refer to the LICENSE file or:
